@@ -43,15 +43,15 @@ printf("MMMMMMMMMMMMMMN0OOOO0NMMMMMMMMMMMMMM					\n\n");
 	
 	switch(nivel) {
 		case 1:
-			numerodetentativas = 20;
-			break;
-			
-		case 2:
 			numerodetentativas = 15;
 			break;
 			
+		case 2:
+			numerodetentativas = 10;
+			break;
+			
 		default:
-			numerodetentativas = 6;
+			numerodetentativas = 5;
 			break;
 		
 	}
