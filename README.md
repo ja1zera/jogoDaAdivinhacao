@@ -29,6 +29,6 @@ git clone https://github.com/ja1zera/jogoDaAdivinhacao.git
 
 - O jogo consiste em o jogador acertar o número secreto gerado pela máquina. Esse número varia de 1 a 100 e é sempre diferente a cada reinicio.
 
-- O jogo é dividido em 3 dificuldades: Fácil: com 20 tentativas; Médio: com 15 tentativas; e Difícil: com 6 tentativas.
+- O jogo é dividido em 3 dificuldades: Fácil: com 15 tentativas; Médio: com 10 tentativas; e Difícil: com 5 tentativas.
 
 - Você inicia o jogo com a pontuação máxima 1000, e a cada tentativa falha você perde pontos.
