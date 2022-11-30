@@ -20,7 +20,7 @@ git clone https://github.com/ja1zera/jogoDaAdivinhacao.git
 
 - Com o projeto clonado, fechar o cmd e acessar a pasta criada (jogoDaAdivinhacao). Dentro dela estará a aplicação.
 
-- Para abrir a aplicação utilize um editor de texto para a linguagem C, eu recomendo o [DEV C++](<https://sourceforge.net/projects/orwelldevcpp/files/latest/download>))
+- Para abrir a aplicação utilize um editor de texto para a linguagem C, eu recomendo o [DEV C++](<https://sourceforge.net/projects/orwelldevcpp/files/latest/download>)
 
 - Com a aplicação aberta no seu editor de preferência, basta apenas compilar e executar o projeto para que seu jogo abra.
 
